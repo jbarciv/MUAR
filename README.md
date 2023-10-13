@@ -8,19 +8,25 @@ MUAR (derived from the Spanish: Máster en Automática y Robótica) compiles the
   * [1.1. Graphs](#11-graphs)
 
 ## 1. Maths
-### 1.1 Graphs
-Solution of usual graphs problems with the use of `networkx` python library with the use of `Jupyter Notebooks`.
-Problems solved:
-- TSP: Traveling Salesman Problem
-- CPP: Chinese Postman Problem
-- SPP: Shortest Path Problem
-- MST: Minimum Spanning Tree
 
-Folders and content:
-- Data: folder with four big graphs data.
-- 'src.ipynb': main code file.
-- 'Assignment_guide.pdf': basic instruction and descriptions for the graphs.
-- 'Graphs_Problems.pdf': slides for the solution.
-Here an example of the TSP solution for the graph with 100 nodes:
+### 1.1 Graphs
+
+Solutions to common graph problems implemented using the `NetworkX` Python library within `Jupyter Notebooks`. The following problems are addressed:
+
+- **TSP (Traveling Salesman Problem)**: Finding the shortest possible route that visits a given set of cities and returns to the starting city.
+- **CPP (Chinese Postman Problem)**: Determining the shortest possible route that visits every edge of a graph at least once.
+- **SPP (Shortest Path Problem)**: Calculating the shortest path between two nodes in a graph.
+- **MST (Minimum Spanning Tree)**: Finding the minimum spanning tree of a connected, undirected graph.
+
+#### Folder Structure
+
+- **Data**: This folder contains datasets for four large graphs used.
+- **src.ipynb**: The main Jupyter Notebook file that contains the Python code for solving the graph problems.
+- **Assignment_guide.pdf**: Detailed instructions and descriptions for the graphs used.
+- **Graphs_Problems.pdf**: Presentation slides.
+
+Finally, an example of the TSP solution for a graph with 100 nodes.
 
 [![TSP_100_node](./Graphs/imgs/tsp/tsp_100.png)]
+
+
