@@ -5,10 +5,13 @@ MUAR (derived from the Spanish: Máster en Automática y Robótica) compiles the
 ## Content
 **[1. Maths](#1-maths)**
 
-   [1.1. Graphs](#11-graphs)
+* [1.1. Graphs](#11-graphs)
     
 **[2. Advanced Programming](#2-advanced-programming)**
+
+**[3. Nonlinear Systems](#2-nonlinear-systems)**
  
+* [3.1. Pendulum](#31-pendulum)
 
 
 ## 1. Maths
@@ -41,3 +44,11 @@ Content:
 - Shared memory
   - Busy waiting
 
+## 3. Nonlinear Systems
+
+### 3.1 Pendulum
+**_A Theoretical and Empirical Analysis of Nonlinearities in a Simple Pendulum_**
+
+In this study, we conduct a theoretical and empirical analysis of the nonlinearities exhibited by a simple pendulum. The simulation is executed utilizing the fourth-order Runge-Kutta method, and a 3D simulation is generated with the aid of VPython. By venturing away from the stable point of linearization, we can vividly observe how the linearized systems diverge from the actual behavior.
+
+[![pendulum](./Nonlinear_Systems/Pendulum/imgs/output_19_0.png )]
