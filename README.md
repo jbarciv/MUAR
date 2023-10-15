@@ -5,7 +5,11 @@ MUAR (derived from the Spanish: Máster en Automática y Robótica) compiles the
 ## Content
 **[1. Maths](#1-maths)**
 
-  * [1.1. Graphs](#11-graphs)
+   [1.1. Graphs](#11-graphs)
+    
+**[2. Advanced Programming](#2-advanced-programming)**
+ 
+
 
 ## 1. Maths
 
@@ -29,4 +33,11 @@ Finally, an example of the TSP solution for a graph with 100 nodes.
 
 [![TSP_100_node](./Graphs/imgs/tsp/tsp_100.png)]
 
+## 2. Advanced Programming
+Visit [my C-advanced repo](https://github.com/jbarciv/C-advanced) for full code and execution instructions.
+Content:
+- Pipes
+- Queues
+- Shared memory
+  - Busy waiting
 
