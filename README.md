@@ -43,6 +43,7 @@ Content:
 - Queues
 - Shared memory
   - Busy waiting
+- Semaphores
 
 ## 3. Nonlinear Systems
 
