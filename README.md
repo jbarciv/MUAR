@@ -9,9 +9,12 @@ MUAR (derived from the Spanish: Máster en Automática y Robótica) compiles the
     
 **[2. Advanced Programming](#2-advanced-programming)**
 
-**[3. Nonlinear Systems](#2-nonlinear-systems)**
+**[3. Nonlinear Systems](#3-nonlinear-systems)**
  
 * [3.1. Pendulum](#31-pendulum)
+
+**[4. Human-Robot Interaction](#4-human-robot-interaction)**
+* [4.1 Bilateral Control with Wave Variables](#41-bilateral-control-with-wave-variables)
 
 
 ## 1. Maths
