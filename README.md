@@ -65,8 +65,8 @@ Stability Analysis for a Bilateral Control System with and without Wave Variable
 
 The WV system schematic used corresponds to the next figure(from this source: [1])
 ![WV_System](./H-R_Interaction/esquema_wv.png)
-And has been implemented with Simulink (Matlab):
-![WV_System](./H-R_Interaction/fig.jpg) where orange box, for example, can be implemented as follows:
+It has been implemented with Simulink (Matlab) as follows:
+![WV_System](./H-R_Interaction/fig.jpg) where orange box, corresponds to
 ![WV_System](./H-R_Interaction/u_m.jpg)
 ## References
 
