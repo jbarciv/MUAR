@@ -44,6 +44,7 @@ Content:
 - Shared memory
   - Busy waiting
 - Semaphores
+- Threads
 
 ## 3. Nonlinear Systems
 
@@ -53,3 +54,8 @@ Content:
 In this study, we conduct a theoretical and empirical analysis of the nonlinearities exhibited by a simple pendulum. The simulation is executed utilizing the fourth-order Runge-Kutta method, and a 3D simulation is generated with the aid of VPython. By venturing away from the stable point of linearization, we can vividly observe how the linearized systems diverge from the actual behavior.
 
 [![pendulum](./Nonlinear_Systems/Pendulum/imgs/output_19_0.png )]
+
+## 4. Human Robot Interaction
+
+### 4.1 Bilateral Control with Wave Variables
+Stability Analysis for a Bilateral Control System with and without Wave Variables (WV). By incorporating passivity control through WV, it is possible to mitigate the destabilizing effects of delays. In this study, we conduct a parametric analysis and quantify the impact of delays on the system's stability.
