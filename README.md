@@ -62,3 +62,14 @@ In this study, we conduct a theoretical and empirical analysis of the nonlineari
 
 ### 4.1 Bilateral Control with Wave Variables
 Stability Analysis for a Bilateral Control System with and without Wave Variables (WV). By incorporating passivity control through WV, it is possible to mitigate the destabilizing effects of delays. In this study, we conduct a parametric analysis and quantify the impact of delays on the system's stability.
+
+The WV system schematic used corresponds to the next figure(from this source: [1])
+[![WV_System](./H-R_Interaction/esquema_wv.png)]
+And has been implemented with Simulink (Matlab):
+[![WV_System](./H-R_Interaction/fig.jpg)] where orange box, for example, can be implemented as follows:
+[![WV_System](./H-R_Interaction/u_m.jpg)]
+## References
+
+**[1] S. Hirche, M. Ferre, J. Barrio, C. Melchiorri, and M. Buss, "Bilateral Control Architectures for Telerobotics," in Advances in Telerobotics, M. Ferre, M. Buss, R. Aracil, C. Melchiorri, and C. Balaguer, Eds. Springer Berlin Heidelberg, Berlin, Heidelberg, 2007, pp. 163-176.**
+*DOI*: [10.1007/978-3-540-71364-7_11](https://doi.org/10.1007/978-3-540-71364-7_11)
+
