@@ -37,7 +37,7 @@ Solutions to common graph problems implemented using the `NetworkX` Python libra
 
 Finally, an example of the TSP solution for a graph with 100 nodes.
 
-[![TSP_100_node](./Graphs/imgs/tsp/tsp_100.png)]
+![TSP_100_node](./Graphs/imgs/tsp/tsp_100.png)
 
 ## 2. Advanced Programming
 Visit [my C-advanced repo](https://github.com/jbarciv/C-advanced) for full code and execution instructions.
@@ -56,7 +56,7 @@ Content:
 
 In this study, we conduct a theoretical and empirical analysis of the nonlinearities exhibited by a simple pendulum. The simulation is executed utilizing the fourth-order Runge-Kutta method, and a 3D simulation is generated with the aid of VPython. By venturing away from the stable point of linearization, we can vividly observe how the linearized systems diverge from the actual behavior.
 
-[![pendulum](./Nonlinear_Systems/Pendulum/imgs/output_19_0.png )]
+![pendulum](./Nonlinear_Systems/Pendulum/imgs/output_19_0.png )
 
 ## 4. Human Robot Interaction
 
@@ -64,10 +64,10 @@ In this study, we conduct a theoretical and empirical analysis of the nonlineari
 Stability Analysis for a Bilateral Control System with and without Wave Variables (WV). By incorporating passivity control through WV, it is possible to mitigate the destabilizing effects of delays. In this study, we conduct a parametric analysis and quantify the impact of delays on the system's stability.
 
 The WV system schematic used corresponds to the next figure(from this source: [1])
-[![WV_System](./H-R_Interaction/esquema_wv.png)]
+![WV_System](./H-R_Interaction/esquema_wv.png)
 And has been implemented with Simulink (Matlab):
-[![WV_System](./H-R_Interaction/fig.jpg)] where orange box, for example, can be implemented as follows:
-[![WV_System](./H-R_Interaction/u_m.jpg)]
+![WV_System](./H-R_Interaction/fig.jpg) where orange box, for example, can be implemented as follows:
+![WV_System](./H-R_Interaction/u_m.jpg)
 ## References
 
 **[1] S. Hirche, M. Ferre, J. Barrio, C. Melchiorri, and M. Buss, "Bilateral Control Architectures for Telerobotics," in Advances in Telerobotics, M. Ferre, M. Buss, R. Aracil, C. Melchiorri, and C. Balaguer, Eds. Springer Berlin Heidelberg, Berlin, Heidelberg, 2007, pp. 163-176.**
