@@ -48,6 +48,7 @@ Content:
   - Busy waiting
 - Semaphores
 - Threads
+- Sockets
 
 ## 3. Nonlinear Systems
 
