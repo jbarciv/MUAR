@@ -49,6 +49,7 @@ Content:
 - Semaphores
 - Threads
 - Sockets
+- Dynamic Trees
 
 ## 3. Nonlinear Systems
 
