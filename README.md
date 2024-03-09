@@ -4,17 +4,24 @@ MUAR (derived from the Spanish: Máster en Automática y Robótica) compiles the
 
 ## Content
 **[1. Maths](#1-maths)**
-
 * [1.1. Graphs](#11-graphs)
-    
+
 **[2. Advanced Programming](#2-advanced-programming)**
-
+  
 **[3. Nonlinear Systems](#3-nonlinear-systems)**
- 
 * [3.1. Pendulum](#31-pendulum)
-
+* [3.2. Final Project](#32-final-project)
+  
 **[4. Human-Robot Interaction](#4-human-robot-interaction)**
 * [4.1 Bilateral Control with Wave Variables](#41-bilateral-control-with-wave-variables)
+* [4.2 HRI in Underwater Exploration](#42-hri-in-underwater-exploration)
+  
+**[5. Computer Vision](#4-computer-vision)**
+* [5.1. Drowsy-Drive Alert](#51-drowsy-drive-alert)
+  
+**[6. Artificial Intelligence](#4-artificial-intelligence)**
+* [6.1. ClusterDynamics](#61-clusterdynamics)
+* [6.2. Assignments](#11-AI-Assignments)
 
 
 ## 1. Maths
